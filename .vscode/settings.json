@@ -4,6 +4,8 @@
         "concepts": "cpp",
         "string_view": "cpp",
         "ranges": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp"
     }
 }
