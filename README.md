@@ -1,9 +1,10 @@
 # mandelbrot-cpp
+
 A quick exercise to brush up on C++17 by porting rust-book's mandelbrot
 
-# Configurations
+## Configurations
 
-## VSCode configurations
+### VSCode configurations
 
 * cppStandard="c++17"
 * intelliSenseMode="linux-clang-x64"
