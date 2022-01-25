@@ -1,4 +1,4 @@
-#include "mandelbrot.h"
+#include "mandelbrot.hpp"
 
 void main()
 {
