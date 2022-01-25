@@ -1,9 +1,4 @@
 #include "mandelbrot.h"
-
-mandelbrot::mandelbrot(/* args */)
-{
-}
-
-mandelbrot::~mandelbrot()
-{
-}
+#include <cstdlib>
+#include <valarray> // slice
+// nothing here...  not doing specialization of mandelbrot<double>...
