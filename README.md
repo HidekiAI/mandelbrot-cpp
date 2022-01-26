@@ -11,9 +11,9 @@ A quick exercise to brush up on C++17 by porting rust-book's mandelbrot
 * includePath="${workspaceFolder}/**", "/usr/include/**"
 * I'll drop .vscode for my Debian config as a sample...
 
-## Sample output:
+## Sample output
 
-```
+```bash
                  .........................................••••*••%*•................
               ...........................................•••••***••••..................
            ..........................................••••%*+*+%%+***••....................
@@ -39,8 +39,10 @@ A quick exercise to brush up on C++17 by porting rust-book's mandelbrot
            ..........................................••••%*+*+%%+***••....................
               ...........................................•••••***••••..................
 
-real	0m0.106s
-user	0m0.101s
-sys	0m0.001s
+real 0m0.106s
+user 0m0.101s
+sys 0m0.001s
 
 ```
+
+![Sample perfomance on a legacy AMD Opteron](mandelbrot-performance.png)
